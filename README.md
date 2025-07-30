@@ -13,6 +13,6 @@ Here are the links of projects I’ve worked on:
 - DESIGN DIGITAL FILTER FOR DENOISING ECG SIGNAL
 - IMPLEMENT SIMPLE JPEG2000 IMAGE COMPRESSION ALGORITHM: [https://github.com/KingdomNguyen/Image_compression_wavelet/tree/main](https://github.com/KingdomNguyen/Image_compression_wavelet/tree/main)
 - ANOMALY DETECTION IN INDUSTRIAL PRODUCT IMAGE USING AUTOENCODER
-- PREDICTION OF MOLECULAR PROPERTIES USING MULTISCALE WEIGHT GRAPH
+
 
 📫 **Contact:** [Email](mailto:quocvuong240402@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
