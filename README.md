@@ -12,7 +12,7 @@ Here are the links of projects I’ve worked on:
 - FEDERATED LEARNING ALGORITHM FOR EDGE NETWORK: [https://github.com/KingdomNguyen/FEDERATED-LEARNING-ALGORITHM-FOR-EDGE-NETWORK/tree/main](https://github.com/KingdomNguyen/FEDERATED-LEARNING-ALGORITHM-FOR-EDGE-NETWORK/tree/main)
 - DESIGN DIGITAL FILTER FOR DENOISING ECG SIGNAL
 - IMPLEMENT SIMPLE JPEG2000 IMAGE COMPRESSION ALGORITHM: [https://github.com/KingdomNguyen/Image_compression_wavelet/tree/main](https://github.com/KingdomNguyen/Image_compression_wavelet/tree/main)
-- INDUSTRIAL IMAGE ANOMALY DETECTION USING AUTOENCODER
+- ANOMALY DETECTION IN INDUSTRIAL PRODUCTION IMAGE USING AUTOENCODER
 - PREDICTION OF MOLECULAR PROPERTIES USING MULTISCALE WEIGHT GRAPH
 
 📫 **Contact:** [Email](mailto:quocvuong240402@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
