@@ -12,7 +12,6 @@ Here are the links of projects I’ve worked on:
 - FEDERATED LEARNING ALGORITHM FOR EDGE NETWORK: [https://github.com/KingdomNguyen/FEDERATED-LEARNING-ALGORITHM-FOR-EDGE-NETWORK/tree/main](https://github.com/KingdomNguyen/FEDERATED-LEARNING-ALGORITHM-FOR-EDGE-NETWORK/tree/main)
 - DESIGN DIGITAL FILTER FOR DENOISING ECG SIGNAL: [https://github.com/KingdomNguyen/Design-digital-filter-for-denoising-ECG-signal/tree/main](https://github.com/KingdomNguyen/Design-digital-filter-for-denoising-ECG-signal/tree/main)
 - IMPLEMENT SIMPLE JPEG2000 IMAGE COMPRESSION ALGORITHM: [https://github.com/KingdomNguyen/Image_compression_wavelet/tree/main](https://github.com/KingdomNguyen/Image_compression_wavelet/tree/main)
-- ANOMALY DETECTION IN INDUSTRIAL PRODUCT IMAGE USING AUTOENCODER
 - DESIGNED & VERIFIED FPGA-BASED 2D WAVELET TRANSFORM: [https://github.com/KingdomNguyen/HDL-the-Cohen-Daubechies-Feauveau-CDF-9-7-Wavelet-Transform-Algorithm/tree/main](https://github.com/KingdomNguyen/HDL-the-Cohen-Daubechies-Feauveau-CDF-9-7-Wavelet-Transform-Algorithm/tree/main)
 
 
