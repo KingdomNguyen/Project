@@ -15,4 +15,4 @@ Here are the links of projects I’ve worked on:
 - DESIGNED & VERIFIED FPGA-BASED 2D WAVELET TRANSFORM: [https://github.com/KingdomNguyen/HDL-the-Cohen-Daubechies-Feauveau-CDF-9-7-Wavelet-Transform-Algorithm/tree/main](https://github.com/KingdomNguyen/HDL-the-Cohen-Daubechies-Feauveau-CDF-9-7-Wavelet-Transform-Algorithm/tree/main)
 
 
-📫 **Contact:** [Email](mailto:quocvuong240402@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile)  
+📫 **Contact:** [quocnguyen240402@gmail.com](mailto:quocnguyen240402@gmail.com) | [ Quoc Vuong LinkedIn](https://www.linkedin.com/in/nguyen-vuong-quoc-840562377/)  
